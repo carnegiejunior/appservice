@@ -1,0 +1,7 @@
+com\carnegieworks\customer\CustomerApplication.class
+com\carnegieworks\customer\CustomerController.class
+com\carnegieworks\customer\CustomerRegistrationRequest.class
+com\carnegieworks\customer\CustomerRepository.class
+com\carnegieworks\customer\Customer$CustomerBuilder.class
+com\carnegieworks\customer\Customer.class
+com\carnegieworks\customer\CustomerRegistrationService.class
